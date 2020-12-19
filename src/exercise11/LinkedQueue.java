@@ -6,7 +6,7 @@ public class LinkedQueue {
 
     public boolean isEmpty() {
         // Check if queue has no elements
-        return false;
+        return ;
     }
 
     public void offer(String data) {
